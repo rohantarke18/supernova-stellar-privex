@@ -1,0 +1,6 @@
+{
+  "name": "Privex",
+  "description": "Confidential limit order book and perpetuals trading interface with privacy-preserving execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
